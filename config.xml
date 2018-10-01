@@ -6,10 +6,10 @@
         versionCode = "201810"
         android-versionCode="201810"
         version   = "1.0.0">
-    <name>C.A. Papaellinas Academy</name>
+    <name>CAP Retail Academy</name>
 
     <description>
-        C.A. Papaellinas Academy official app
+        C.A. Papaellinas Retail Academy official app
     </description>
 
     <author href="http://humanasset.com" email="info@humanasset.com">
