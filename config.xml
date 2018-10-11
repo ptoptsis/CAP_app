@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "cy.com.cap.academy1"
-        versionCode = "201810"
-        android-versionCode="201810"
-        version   = "1.0.0">
+        versionCode = "20181001"
+        android-versionCode="20181001"
+        version   = "1.1.0">
     <name>CAP Retail Academy</name>
 
     <description>
@@ -17,7 +17,7 @@
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>1.0.0</string>
+        <string>1.1.0</string>
     </edit-config>
 
     <gap:platform name="ios" />
